@@ -81,19 +81,23 @@
 [submodule "qtsystems"]
 	path = qtsystems
 	url = ../../qtproject/qtsystems.git
-	branch = 5.5
+	branch = dev
+	initrepo = false
 [submodule "qtfeedback"]
 	path = qtfeedback
 	url = ../../qtproject/qtfeedback.git
 	branch = master
+	initrepo = false
 [submodule "qtdocgallery"]
 	path = qtdocgallery
 	url = ../../qtproject/qtdocgallery.git
 	branch = master
+	initrepo = false
 [submodule "qtpim"]
 	path = qtpim
 	url = ../../qtproject/qtpim.git
 	branch = dev
+	initrepo = false
 [submodule "qtconnectivity"]
 	path = qtconnectivity
 	url = ../../qtproject/qtconnectivity.git
@@ -131,7 +135,8 @@
 [submodule "qtserialbus"]
 	path = qtserialbus
 	url = ../../qtproject/qtserialbus.git
-	branch = 5.5
+	branch = 5.6
+	initrepo = false
 [submodule "qtserialport"]
 	path = qtserialport
 	url = ../../qtproject/qtserialport.git
@@ -190,5 +195,5 @@
 [submodule "qtquickcontrols2"]
 	path = qtquickcontrols2
 	url = ../../qtproject/qtquickcontrols2.git
-	branch = 5.5
-	initrepo = true
+	branch = 5.6
+	initrepo = false
