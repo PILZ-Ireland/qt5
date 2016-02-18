@@ -68,10 +68,6 @@
 	url = ../../qtproject/qtsensors.git
 	branch = 5.5.1
 	initrepo = true
-[submodule "qtsystems"]
-	path = qtsystems
-	url = ../../qtproject/qtsystems.git
-	branch = dev
 [submodule "qtfeedback"]
 	path = qtfeedback
 	url = ../../qtproject/qtfeedback.git
