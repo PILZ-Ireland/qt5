@@ -53,16 +53,6 @@
 	url = ../../qtproject/qtrepotools.git
 	branch = master
 	initrepo = true
-[submodule "qtwebkit"]
-	path = qtwebkit
-	url = ../../qtproject/qtwebkit.git
-	branch = 5.5.1
-	initrepo = true
-[submodule "qtwebkit-examples"]
-	path = qtwebkit-examples
-	url = ../../qtproject/qtwebkit-examples.git
-	branch = 5.5.1
-	initrepo = true
 [submodule "qtqa"]
 	path = qtqa
 	url = ../../qtproject/qtqa.git
@@ -97,16 +87,6 @@
 [submodule "qtconnectivity"]
 	path = qtconnectivity
 	url = ../../qtproject/qtconnectivity.git
-	branch = 5.5.1
-	initrepo = true
-[submodule "qtwayland"]
-	path = qtwayland
-	url = ../../qtproject/qtwayland.git
-	branch = 5.5.1
-	initrepo = true
-[submodule "qt3d"]
-	path = qt3d
-	url = ../../qtproject/qt3d.git
 	branch = 5.5.1
 	initrepo = true
 [submodule "qtimageformats"]
@@ -162,20 +142,5 @@
 [submodule "qtwebsockets"]
 	path = qtwebsockets
 	url = ../../qtproject/qtwebsockets.git
-	branch = 5.5.1
-	initrepo = true
-[submodule "qtwebchannel"]
-	path = qtwebchannel
-	url = ../../qtproject/qtwebchannel.git
-	branch = 5.5.1
-	initrepo = true
-[submodule "qtwebengine"]
-	path = qtwebengine
-	url = ../../qtproject/qtwebengine.git
-	branch = 5.5.1
-	initrepo = true
-[submodule "qtcanvas3d"]
-	path = qtcanvas3d
-	url = ../../qtproject/qtcanvas3d.git
 	branch = 5.5.1
 	initrepo = true
